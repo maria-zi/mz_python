@@ -1,10 +1,8 @@
 #!/usr/bin/python3
 
 from sys import argv
-#read the WYSS section for how to run this
-script, first, second, third = argv
+scr, fi, se, th = argv
 
-print("The script is called:" + script)
-print("Your first variable is:" + first)
-print("Your second variable is:", second)
-print("Your third variable is:", third)
+print("The script is called:", scr)
+print("Your first variable is:", fi)
+print("Your second variable is:", se)
