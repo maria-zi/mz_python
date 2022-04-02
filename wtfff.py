@@ -1,4 +1,3 @@
 #!/usr/bin/python3
 
-first_name = input('write your name: ')
-print(f"Hello {first_name}.")
+print('What do you call a bear with no teeth?\nA gummy bear!')
