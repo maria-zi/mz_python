@@ -1,3 +1,8 @@
 #!/usr/bin/python3
 
-print('What do you call a bear with no teeth?\nA gummy bear!')
+# что бы ввести 2 числа, нужно задать 2 переменные с инпут потом переменную
+# результат с суммой первых чисел и принт
+num1 = int(input('1 number: '))
+num2 = int(input('2 number: '))
+total = num1 + num2
+print(f"The total is {total}")
