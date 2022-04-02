@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-# что бы ввести 2 числа, нужно задать 2 переменные с инпут потом переменную
-# результат с суммой первых чисел и принт
-num1 = int(input('1 number: '))
-num2 = int(input('2 number: '))
-num3 = int(input('3 number: '))
-total = (num1 + num2) * num3
-print(f"The total is {total}")
+x = float(input('weight '))
+weight = x * 2.204
+print('weight', weight)
+
+kilo = int(input("Enter the number of kilos: "))
+pound = kilo * 2.204
+print("That is ", pound, " pounds")
