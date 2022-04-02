@@ -4,5 +4,6 @@
 # результат с суммой первых чисел и принт
 num1 = int(input('1 number: '))
 num2 = int(input('2 number: '))
-total = num1 + num2
+num3 = int(input('3 number: '))
+total = (num1 + num2) * num3
 print(f"The total is {total}")
